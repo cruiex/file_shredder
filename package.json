@@ -1,0 +1,25 @@
+{
+  "name": "file-shredder_shamirs-secret-sharing",
+  "version": "1.0.0",
+  "description": "## Team Members - Saahil Mishra (22BCS105) - Rohit (22BCS100) - Shriya Udupa (22BCS121) - Laxmi (22BCS059)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/123saahil/File-Shredder_Shamirs-Secret-Sharing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/123saahil/File-Shredder_Shamirs-Secret-Sharing/issues"
+  },
+  "homepage": "https://github.com/123saahil/File-Shredder_Shamirs-Secret-Sharing#readme",
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^6.1.6",
+    "@mui/material": "^6.1.6"
+  }
+}
