@@ -57,11 +57,11 @@ The `storage/` directory is intentionally excluded from version control. It is c
 
 ### Step 2: Create and activate a virtual environment
 
-**Windows (PowerShell):**
+### **Windows (PowerShell):**
     python -m venv venv
     venv\Scripts\Activate.ps1
 
-**Linux / macOS / WSL:**
+### **Linux / macOS / WSL:**
     python3 -m venv venv
     source venv/bin/activate
 
